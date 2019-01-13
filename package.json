@@ -1,0 +1,22 @@
+{
+  "name": "poc-answer-sheet-evaluator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sancz0609/poc-answer-sheet-evaluator.git"
+  },
+  "author": "Sanchit Bathla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sancz0609/poc-answer-sheet-evaluator/issues"
+  },
+  "homepage": "https://github.com/sancz0609/poc-answer-sheet-evaluator#readme",
+  "devDependencies": {
+    "natural": "^0.6.3"
+  }
+}
