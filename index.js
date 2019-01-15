@@ -2,6 +2,5 @@
 
 var natural = require('natural');
 
-//tokenization
+//Tokenizer
 var tokenizer = new natural.WordTokenizer();
-
